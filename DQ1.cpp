@@ -22,11 +22,11 @@ int main()
 		cin >> l1 >> l2 >> ang;	
 	}
 	
-	if (fabs ((l1 - l2) < 0.1) && fabs((ang - 90) < 0.5))
+	if (fabs(l1 - l2) <= 0.1 && fabs(ang - 90) <= 0.5)
 		shape = "Square";
-	else if (fabs((ang - 90) < 0.5))
+	else if (fabs(ang - 90) < 0.5)
 		shape = "Rectangle";
-	else if (fabs ((l1 - l2) < 0.1))
+	else if (fabs (l1 - l2) < 0.1)
 		shape = "Rhombus";
 	else
 		shape = "Parallelogram";
