@@ -58,8 +58,7 @@ what is the angle in degrees? 90.4
 for a shape of sides 1 and 1 with an angle of 90.4 is a Square
 
 //Testing Rectangle with error in lengths and angle
-What is the length of the 2 adjacent sides in cm? 1
-1.51
+What is the length of the 2 adjacent sides in cm? 1 1.51
 what is the angle in degrees? 89.5
 for a shape of sides 1 and 1.51 with an angle of 89.5 is a Rectangle
 
