@@ -1,0 +1,9 @@
+Square: 1 1 90.4 
+Rectangle: 1 1.51 89.5 
+Rhombus: 60.234 60.3165 0.1 
+Parallelogram: 1.245 1.489 90.501 
+This is not a shape: 0 1 1 
+This is not a shape: 1 0 1 
+This is not a shape: 1 1 0 
+This is not a shape: -10 -10 -45 
+This is not a shape: 1 1 180 
